@@ -1,4 +1,4 @@
-[Home Page](https://github.com/EricGutierrezAVG/Markdown/blob/main/page1)
+[Home Page](https://github.com/EricGutierrezAVG/Markdown/blob/main/README.md)
 
 - [x] Finish 1600 assignment
 - [x] Clean bathroom
