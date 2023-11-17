@@ -7,6 +7,6 @@ __Welcome to my Markdown Pages Challenge__
 
 ###### Links to Pages 1-3
 [Page One](https://github.com/EricGutierrezAVG/Markdown/blob/main/Page%201.md)
-[Page Two](https://github.com/EricGutierrezAVG/Markdown/blob/main/page2)
+[Page Two](https://github.com/EricGutierrezAVG/Markdown/blob/main/Page%202.md)
 [Page Three](https://github.com/EricGutierrezAVG/Markdown/blob/main/page3)
 
